@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+  <string name="app_name">${YYAndroidDisplayName}</string>
+  <string name="app_id">${YYAndroidDisplayName}</string>
+  <string name="xperiaplayoptimized_content">true</string>
+  ${YYAndroidStringValues}
+</resources>

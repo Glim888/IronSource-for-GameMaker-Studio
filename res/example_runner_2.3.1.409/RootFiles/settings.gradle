@@ -1,0 +1,3 @@
+include ':${YYAndroidPackageName}'
+${YYAndroidExtensionIncludes}
+rootProject.name = 'root'
